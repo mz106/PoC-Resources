@@ -1,0 +1,13 @@
+
+.menu--container {
+    justify-content: center;
+    width: 80%;
+    height: 60vh;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+.menu__nav {
+    flex-direction: column;
+    justify-content: space-evenly;
+}
