@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PoC-Resources/static/css/main.6c36fdb6.chunk.css",
+    "main.js": "/PoC-Resources/static/js/main.ceb6a46d.chunk.js",
+    "main.js.map": "/PoC-Resources/static/js/main.ceb6a46d.chunk.js.map",
+    "runtime-main.js": "/PoC-Resources/static/js/runtime-main.8888704c.js",
+    "runtime-main.js.map": "/PoC-Resources/static/js/runtime-main.8888704c.js.map",
+    "static/js/2.22f55cc9.chunk.js": "/PoC-Resources/static/js/2.22f55cc9.chunk.js",
+    "static/js/2.22f55cc9.chunk.js.map": "/PoC-Resources/static/js/2.22f55cc9.chunk.js.map",
+    "index.html": "/PoC-Resources/index.html",
+    "static/css/main.6c36fdb6.chunk.css.map": "/PoC-Resources/static/css/main.6c36fdb6.chunk.css.map",
+    "static/js/2.22f55cc9.chunk.js.LICENSE.txt": "/PoC-Resources/static/js/2.22f55cc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8888704c.js",
+    "static/js/2.22f55cc9.chunk.js",
+    "static/css/main.6c36fdb6.chunk.css",
+    "static/js/main.ceb6a46d.chunk.js"
+  ]
+}
